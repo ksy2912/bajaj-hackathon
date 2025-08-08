@@ -16,7 +16,7 @@ import time
 import ast
 
 # 🔐 Gemini API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAm_sEk9node-i4kX0_bW0w8Aia9LzqTZQ"
+os.environ["GOOGLE_API_KEY"] = "AIzaSyAVYV7SgAVD5o29Wz7IEn_oPlXrAD49Ou8"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # 📄 Comprehensive Text Extraction
